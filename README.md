@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket173000&label=Profile%20views&color=0e75b6&style=flat" alt="aniket173000" /> </p>
 
-- 💬 Ask me about: **DSA,Problem Solving,React,NODE.js,MongoDB,Express.js etc**
+- 💬 Ask me about: **DSA, Problem Solving, React, NODE.js, MongoDB, Express.js etc**
 
 - 📫 How to reach me: **aniketshrivastav02@gmail.com**
 
