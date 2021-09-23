@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket173000&label=Profile%20views&color=0e75b6&style=flat" alt="aniket173000" /> </p>
 
-- 📝 I regularly write articles on [Data Structures and Algorithms(https://auth.geeksforgeeks.org/user/aniket173000/articles)](Data Structures and Algorithms(https://auth.geeksforgeeks.org/user/aniket173000/articles))
+- 💬 Ask me about: **DSA,Problem Solving,React,NODE.js,MongoDB,Express.js etc**
 
-- 💬 Ask me about **DSA,Problem Solving,React,NODE.js,MongoDB,Express.js etc**
+- 📫 How to reach me: **aniketshrivastav02@gmail.com**
 
-- 📫 How to reach me **aniketshrivastav02@gmail.com**
-
-- 📄 Know about my experiences [RESUME(https://drive.google.com/file/d/1KQiRfp4qBMQJOMMrtUuxcNG-ytSw3opA/view?usp=sharing)](RESUME(https://drive.google.com/file/d/1KQiRfp4qBMQJOMMrtUuxcNG-ytSw3opA/view?usp=sharing))
-
-- ⚡ Fun fact **I always Believe in Myself.**
+- ⚡ Fun fact: **I Always Work To Be The Best.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
